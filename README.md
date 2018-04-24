@@ -17,7 +17,7 @@ During the review process, we won’t pay much attention to UI/UX (until you ask
 
 If you don’t want to share your code publicly, send us entire project as a zip file via email.
 
-We’ll wait for your response until May 1st. Feel free to ask any questions at mirek@azimo.com.
+We’ll wait for your response until May 4th. Feel free to ask any questions at mirek@azimo.com.
 
 # Task
 
